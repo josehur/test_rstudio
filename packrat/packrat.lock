@@ -28,6 +28,11 @@ Source: CRAN
 Version: 1.0.3
 Hash: 99f6a1855b2f9434e1399d565d2ed9df
 
+Package: SparkR
+Source: CRAN
+Version: 2.4.4
+Hash: bb9b6ed5854ec7e508ceeb1793d35b0e
+
 Package: askpass
 Source: CRAN
 Version: 1.1
